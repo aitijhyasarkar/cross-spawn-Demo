@@ -1,0 +1,10 @@
+ipconfig /displaydns
+netsh interface ip show dnsservers
+netsh interface show interface
+ping rxefy.com
+tracert rxefy.com
+netstat -o
+netstat -af
+route print
+cmd.exe /c assoc
+cmd.exe /c tasklist
