@@ -1,0 +1,27 @@
+{
+  "name": "cross-spawn-demo",
+  "version": "1.1.0",
+  "description": "Taking a command as an input from a user and running it. Its Cross Platform",
+  "main": "user.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aitijhyasarkar/cross-spawn-Demo.git#main"
+  },
+  "keywords": [
+    "cross-spawn",
+    "spawn",
+    "command"
+  ],
+  "author": "Aitijhya sarkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aitijhyasarkar/cross-spawn-Demo/issues"
+  },
+  "homepage": "https://github.com/aitijhyasarkar/cross-spawn-Demo/tree/main#readme",
+  "dependencies": {
+    "cross-spawn": "^7.0.3"
+  }
+}
