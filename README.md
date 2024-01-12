@@ -41,6 +41,7 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
     $ git clone https://github.com/aitijhyasarkar/cross-spawn-Demo.git
     $ cd 'no file handling'
+    $ npm i
 
 ## Running the project
 
